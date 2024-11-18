@@ -1,0 +1,87 @@
+{
+    "Blobcat": {
+      "type": "image",
+      "container": [
+        {
+          "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1643515456/14767/meow_adorable.png?1643515456\">",
+          "text": "meow_adorable"
+        },
+        {
+          "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1643515329/13483/meow_astonished.png?1643515329\">",
+          "text": "meow_astonished"
+        },
+        {
+          "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1643515329/13482/meow_amused.png?1643515329\">",
+          "text": "meow_amused"
+        },
+        {
+          "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1643515329/13484/meow_awauu.png?1643515329\">",
+          "text": "meow_awauu"
+        },
+        {
+          "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1643515330/13489/meow_blush.png?1643515330\">",
+          "text": "meow_blush"
+        },
+        {
+          "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1643515229/12475/meow_flower.png?1643515229\">",
+          "text": "meow_flower"
+        },
+        {
+          "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1643515275/12964/meow_trash.png?1643515275\">",
+          "text": "meow_trash"
+        },
+        {
+          "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1643515630/16529/meow_ass.png?1643515630\">",
+          "text": "meow_ass"
+        },
+        {
+          "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1643515484/15053/meow_clown.png?1643515484\">",
+          "text": "meow_clown"
+        },
+        {
+          "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1643516979/30343/meow_eyes-owo.png?1643516979\">",
+          "text": "meow_eyes-owo"
+        },
+        {
+          "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1643515241/12596/meow_facepalm.png?1643515241\">",
+          "text": "meow_facepalm"
+        },
+        {
+          "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1643515259/12813/meow_devil.png?1643515259\">",
+          "text": "meow_devil"
+        },
+        {
+          "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1643514598/6021/meow_knife.png?1643514598\">",
+          "text": "meow_knife"
+        },
+        {
+          "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1643515330/13488/meow_blessup.png?1643515330\">",
+          "text": "meow_blessup"
+        },
+        {
+          "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1643514598/6018/meow_disappointed.png?1643514598\">",
+          "text": "meow_disappointed"
+        },
+        {
+          "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1643516978/30333/meow_bandage2.png?1643516978\">",
+          "text": "meow_bandage2"
+        },
+        {
+          "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1643515227/12454/meow_comfy.png?1643515227\">",
+          "text": "meow_comfy"
+        },
+        {
+          "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1643515375/13938/meow_cookie.gif?1643515375\">",
+          "text": "meow_cookie"
+        },
+        {
+          "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1643514976/10024/coffee.png?1643514976\">",
+          "text": "meow_coffee"
+        },
+        {
+          "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1643517029/30804/meow_clorox.gif?1643517029\">",
+          "text": "meow_clorox"
+        }
+      ]
+    }
+  }
